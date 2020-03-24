@@ -37,9 +37,9 @@ Encryption Test Table:
 
 ## Section 4: Programs used
 
-Eclipse
-JavaFX
-Command Prompt
+ - Eclipse
+ - JavaFX
+ - Command Prompt
 
 ## Section 5: Code Example
 
